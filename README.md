@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mock Interview AI 🤖
 
 An interactive web application that simulates a mock interview using AI. The application features a voice-enabled AI interviewer, provides real-time feedback on verbal answers, and analyzes the user's on-camera body language for emotional cues.
@@ -47,7 +47,5 @@ An interactive web application that simulates a mock interview using AI. The app
     python app.py
     ```
 
-5.  Open your web browser and navigate to `http://127.0.0.1:5000`.
-=======
-
+5.  Open your web browser and navigate to `http://127.0.0.1:5000`. 
 
